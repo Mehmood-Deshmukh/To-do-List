@@ -15,8 +15,8 @@ body {
 }
 .container {
     width: 65vw;
-    height: 75vh;
-    /* min-height: 500px; */
+    height: auto;
+    min-height: 500px;
     /* max-width: 500px; */
     /* min-width: 250px; */
     background: #f1f5f8;
